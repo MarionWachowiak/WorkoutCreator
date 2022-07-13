@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="fr.marionwachowiak.workoutcreator" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>WorkoutCreator</name>
+    <description>Workout Creator</description>
+    <author email="marioncw@hotmail.fr">
+        Marion WACHOWIAK
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+	<icon src="www/img/icon-sport.png" />
+</widget>
